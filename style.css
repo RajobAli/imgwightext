@@ -1,0 +1,45 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    width: 80%;
+
+    height: 300px;
+    background-image: url('Logo-6.png');
+    margin: 0 auto;
+    position: relative;
+
+    
+}
+.he{
+    text-align: center;
+  
+}
+.second{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    gap: 10px;
+   
+ 
+    
+}
+.common{
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+
+#in{
+    padding: 5px;
+ 
+   
+}
+.btn:hover{
+    background-color: red;
+    border: none;
+    padding: 5px;
+    
+}
